@@ -1,8 +1,8 @@
 {
-  "name": "dagre-d3",
-  "version": "0.6.5-pre",
+  "name": "@softmedialab/dagre-d3",
+  "version": "0.0.1",
   "description": "A D3-based renderer for Dagre",
-  "author": "Chris Pettitt <chris@samsarin.com>",
+  "author": "Nikolay Khudkov",
   "keywords": [
     "graph",
     "dagre",
@@ -44,7 +44,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/dagre-d3.git"
+    "url": "https://github.com/SoftMediaLab/dagre-d3.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "private": false
 }
